@@ -1,7 +1,6 @@
-import 'package:assignment_2/app.dart';
-import 'package:flutter/material.dart';
+import 'package:assignment_2/assignment_3/myapp.dart';
+import 'package:flutter/cupertino.dart';
 
-void main(){
-  runApp(MyApp());
-
+void main (){
+  runApp(CounterNavApp());
 }
