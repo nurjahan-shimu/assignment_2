@@ -1,5 +1,5 @@
-import 'package:assignment_2/assignment_3/about_screen.dart';
-import 'package:assignment_2/assignment_3/home_screen.dart';
+import 'package:assignment_2/screens/about_screen.dart';
+import 'package:assignment_2/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
 class MainTabScreen extends StatefulWidget {

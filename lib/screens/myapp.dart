@@ -1,4 +1,4 @@
-import 'package:assignment_2/assignment_3/main_tab_screen.dart';
+import 'package:assignment_2/screens/main_tab_screen.dart';
 import 'package:flutter/material.dart';
 
 class CounterNavApp extends StatelessWidget {
